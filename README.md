@@ -1,5 +1,6 @@
 # folderview
 flask app to display folder, subfolders and files.
+![alt text](https://raw.githubusercontent.com/mrambig/folderview/master/folderview.png)
 
 ## Installation
 - Make sure you have python 3.x available
