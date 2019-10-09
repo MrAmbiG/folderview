@@ -8,7 +8,8 @@ flask app to display folder, subfolders and files.
 - pip install -r requirements.txt
 
 ### Usage
-- update the parent directory in app.py as ppath="<update here>" before running the server
+- update the parent directory in app.py as ppath="<update here>" before running the server, 
+    it is set to ppath = "/" by default.
 - python app.py
 - go to http://127.0.0.1:5000/
 
