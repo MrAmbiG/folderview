@@ -1,2 +1,15 @@
 # folderview
-flask app to display folder, subfolders and html reports in them.
+flask app to display folder, subfolders and files.
+
+## Installation
+- Make sure you have python 3.x available
+- create a virtual environment [*optional*]
+- pip install -r requirements.txt
+
+### Usage
+- update the parent directory in app.py as ppath="<update here>" before running the server
+- python app.py
+- go to http://127.0.0.1:5000/
+
+## other modifications
+- to run it on a custom port set the environment variable 
